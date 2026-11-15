@@ -1,6 +1,5 @@
 <header>
 test aja 15 NOV 2026
-test lagi -----
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
